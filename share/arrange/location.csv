@@ -1,0 +1,381 @@
+39279.65208,Location_Name,MapIndex,Pos_X,Pos_Y,Direction,Pos_X,Pos_Y,Direction
+1,Braiken Castle,0,232,158,224,232,158,224
+2,Braiken Castle,0,294,374,224,294,374,224
+3,Braiken Castle,0,336,216,224,336,216,224
+4,Braiken Castle,0,232,158,224,232,158,224
+5,Braiken Castle,0,294,374,224,294,374,224
+6,Braiken Castle,0,336,216,224,336,216,224
+7,Loa Castle,7,150,342,0,150,342,0
+8,Loa Castle,7,354,146,96,354,146,96
+9,Loa Castle,7,336,366,32,336,366,32
+10,Loa Castle,7,150,342,0,150,342,0
+11,Loa Castle,7,354,146,96,354,146,96
+12,Loa Castle,7,336,366,32,336,366,32
+15,Braiken Castle Underground Prison,16,256,203,0,256,203,0
+101,Loa Castle 2,7,221,262,0,221,262,0
+102,Braiken Castle 2,0,231,269,0,231,269,0
+103,Denebe,3,465,281,0,465,281,0
+104,Parca Temple,6,416,333,0,416,333,0
+105,Norak Cave 1st Fl.,2,269,361,0,269,361,0
+106,Castor Cave 1st Fl.,10,42,456,0,42,456,0
+109,Frozen Valley of Vengeance,11,231,334,0,231,334,0
+110,Loa Castle 1,7,282,219,0,282,219,0
+111,Braiken Castle 1,0,296,237,0,296,237,0
+112,Draco Desert,13,224,187,0,224,187,0
+113,Crespo,12,130,304,0,130,304,0
+114,Requies Beach (Plains),17,40,469,0,40,469,0
+115,Requies Beach (Dock),17,299,118,0,299,118,0
+116,Avalon Island,18,391,359,0,391,359,0
+117,Infinite Hunting,24,125,125,0,125,125,0
+118,Treasure of Crespo,25,292,178,0,292,178,0
+119,Aquarius,26,29,398,0,29,398,0
+120,Braiken Castle,0,152,328,128,152,328,128
+121,Loa Castle,7,155,155,160,155,155,160
+122,Norak Cave 2nd Fl.,14,480,472,64,480,472,64
+123,Castor Cave 2nd Fl.,15,26,470,160,26,470,160
+124,Python Castle,19,27,27,160,27,27,160
+125,Tomb of the Black Dragon,20,489,256,160,489,256,160
+126,Cursed Maze,21,233,25,160,233,25,160
+127,Space of Pilgrimage,47,479,38,64,479,38,64
+1001,Braiken Castle,0,22,254,0,22,254,0
+1002,North Ares,1,459,241,64,459,241,64
+1003,Denebe,3,20,357,0,20,357,0
+1004,Heiharp,5,470,46,0,470,46,0
+1005,North Ares,1,472,239,0,472,239,0
+1006,Braiken Castle,0,43,256,192,43,256,192
+1007,North Ares,1,30,181,0,30,181,0
+1008,Denebe,3,445,350,64,445,350,64
+1011,Den of Norak,2,339,287,0,339,287,0
+1012,Denebe,3,36,455,192,36,455,192
+1015,Den of Norak,2,290,465,0,290,465,0
+1016,Heiharp,5,390,474,0,390,474,0
+1017,Denebe,3,454,353,0,454,353,0
+1018,North Ares,1,52,184,192,52,184,192
+1019,Denebe,3,26,447,0,26,447,0
+1020,Den of Norak,2,337,296,128,337,296,128
+1021,Denebe,0,20,357,0,20,357,0
+1022,Heiharp,5,470,46,0,470,46,0
+1023,Denebe,3,483,166,0,483,166,0
+1024,North Morte,8,50,458,224,50,458,224
+1025,Denebe,3,38,38,0,38,38,0
+1026,Castor Cave,10,207,433,64,207,433,64
+1027,East Ares,4,477,156,0,477,156,0
+1028,Braiken Castle,0,486,451,0,486,451,0
+1029,East Ares,4,186,75,0,186,75,0
+1030,North Ares,1,241,349,0,241,349,0
+1031,East Ares,4,32,106,0,32,106,0
+1032,Norak Cave,2,451,314,0,451,314,0
+1035,Heiharp,5,470,27,0,470,27,0
+1036,Denebe,3,40,351,224,40,351,224
+1039,Heiharp,5,71,260,0,71,260,0
+1040,Parca Temple,6,431,256,64,431,256,64
+1041,Heiharp,5,6,159,0,6,159,0
+1042,Frozen Valley of Vengeance,11,475,467,64,475,467,64
+1043,Parca Temple,6,451,255,0,451,255,0
+1044,Heiharp,5,84,263,192,84,263,192
+1045,Frozen Valley of Vengeance,11,484,464,0,484,464,0
+1046,Heiharp,5,26,161,192,26,161,192
+1047,Frozen Valley of Vengeance,11,0,0,0,0,0,0
+1048,Crespo,12,406,62,128,406,62,128
+1049,Crespo,12,404,51,0,404,51,0
+1050,Frozen Valley of Vengeance,11,70,91,192,70,91,192
+1051,Loa Castle,7,27,250,0,27,250,0
+1052,North Morte,8,404,266,64,404,266,64
+1055,North Morte,8,433,263,0,433,263,0
+1056,Loa Castle,7,66,254,192,66,254,192
+1059,North Morte,8,37,474,0,37,474,0
+1060,Denebe,3,473,173,64,473,173,64
+1061,West Morte,9,446,477,0,446,477,0
+1062,Loa Castle,7,233,21,0,233,21,0
+1063,West Morte,9,67,467,0,67,467,0
+1064,North Morte,8,77,99,0,77,99,0
+1065,West Morte,9,90,421,0,90,421,0
+1066,Castor Cave,10,443,264,0,443,264,0
+1069,Castor Cave,10,214,431,0,214,431,0
+1070,Denebe,3,47,42,0,47,42,0
+1071,Castor Cave,10,39,166,0,39,166,0
+1072,Heiharp,5,379,27,0,379,27,0
+1073,Den of Norak,2,260,332,0,260,332,0
+1074,Norak Cave 2nd Fl.,14,484,471,64,484,471,64
+1075,Norak Cave 2nd Fl.,14,490,469,0,490,469,0
+1076,Den of Norak,2,261,344,128,261,344,128
+1077,Castor Cave,10,39,415,0,39,415,0
+1078,Castor Cave 2nd Fl.,15,26,467,128,26,467,128
+1079,Castor Cave 2nd Fl.,15,24,459,0,24,459,0
+1080,Castor Cave,10,41,430,128,41,430,128
+1081,Norak Cave 2nd Fl.,14,0,0,0,0,0,0
+1082,Draco Desert,13,56,435,224,56,435,224
+1083,Draco Desert,13,51,442,0,51,442,0
+1084,Norak Cave 2nd Fl.,14,478,28,128,478,28,128
+1085,Castor Cave 2nd Fl.,15,0,0,0,0,0,0
+1086,Draco Desert,13,55,55,160,55,55,160
+1087,Draco Desert,13,47,47,0,47,47,0
+1088,Castor Cave 2nd Fl.,15,25,105,64,25,105,64
+1089,Braiken Castle,0,156,188,0,156,188,0
+1090,Braiken Castle Underground Prison,16,255,292,0,255,292,0
+1091,Braiken Castle Underground Prison,16,254,302,0,254,302,0
+1092,Braiken Castle,0,168,188,192,168,188,192
+1093,North Ares,1,16,446,0,16,446,0
+1094,Den of Norak,2,451,314,64,451,314,64
+1095,Den of Norak,2,463,308,0,463,308,0
+1096,North Ares,1,23,447,192,23,447,192
+1097,North Morte,8,21,161,0,21,161,0
+1098,Castor Cave,10,443,264,128,443,264,128
+1099,Castor Cave,10,442,249,0,442,249,0
+1100,North Morte,8,23,176,128,23,176,128
+1101,Denebe,3,15,143,0,15,143,0
+1102,Requies Beach,17,494,494,32,494,494,32
+1103,Requies Beach,17,497,498,0,497,498,0
+1104,Denebe,3,22,150,160,22,150,160
+1105,North Ares,1,0,0,0,0,0,0
+1106,North Ares,1,494,112,0,494,112,0
+1107,North Ares,1,0,0,0,0,0,0
+1108,North Ares,1,354,73,0,354,73,0
+1109,North Ares,1,0,0,0,0,0,0
+1110,North Ares,1,322,111,0,322,111,0
+1111,North Ares,1,0,0,0,0,0,0
+1112,North Ares,1,183,74,0,183,74,0
+1113,North Ares,1,0,0,0,0,0,0
+1114,North Ares,1,166,108,0,166,108,0
+1115,North Ares,1,0,0,0,0,0,0
+1116,North Ares,1,50,15,0,50,15,0
+1117,North Ares,1,0,0,0,0,0,0
+1118,North Ares,1,482,141,0,482,141,0
+1119,North Morte,8,0,0,0,0,0,0
+1120,North Morte,8,471,120,0,471,120,0
+1121,North Morte,8,0,0,0,0,0,0
+1122,North Morte,8,441,24,0,441,24,0
+1123,North Morte,8,0,0,0,0,0,0
+1124,North Morte,8,324,120,0,324,120,0
+1125,North Morte,8,0,0,0,0,0,0
+1126,North Morte,8,184,70,0,184,70,0
+1127,North Morte,8,0,0,0,0,0,0
+1128,North Morte,8,167,120,0,167,120,0
+1129,North Morte,8,0,0,0,0,0,0
+1130,North Morte,8,23,70,0,23,70,0
+1131,North Morte,8,0,0,0,0,0,0
+1132,North Morte,8,488,129,0,488,129,0
+1135,Python Castle,19,14,15,0,14,15,0
+1136,Draco Desert,13,487,25,96,487,25,96
+1137,Python Castle,19,0,0,0,0,0,0
+1138,Python Castle,19,191,255,0,191,255,0
+1139,Python Castle,19,0,0,0,0,0,0
+1140,Python Castle,19,176,255,0,176,255,0
+1141,Python Castle,19,0,0,0,0,0,0
+1142,Python Castle,19,437,255,0,437,255,0
+1143,Python Castle,19,0,0,0,0,0,0
+1144,Python Castle,19,423,255,0,423,255,0
+1145,Python Castle,19,0,0,0,0,0,0
+1146,Python Castle,19,422,291,0,422,291,0
+1147,Python Castle,19,0,0,0,0,0,0
+1148,Python Castle,19,422,277,0,422,277,0
+1149,Python Castle,19,0,0,0,0,0,0
+1150,Python Castle,19,454,294,0,454,294,0
+1151,Python Castle,19,0,0,0,0,0,0
+1152,Python Castle,19,455,277,0,455,277,0
+1153,Draco Desert,13,0,0,0,0,0,0
+1154,Python Castle,19,22,23,160,22,23,160
+1155,Python Castle,19,0,0,0,0,0,0
+1156,Tomb of the Black Dragon,20,480,255,64,480,255,64
+1157,Tomb of the Black Dragon,20,496,254,0,496,254,0
+1158,Python Castle,19,422,240,128,422,240,128
+1159,Requies Beach,17,0,0,0,0,0,0
+1160,Avalon Island,18,391,359,32,391,359,32
+1161,Tomb of the Black Dragon,20,0,0,0,0,0,0
+1162,Tomb of the Black Dragon,20,102,256,0,102,256,0
+1163,Tomb of the Black Dragon,20,0,0,0,0,0,0
+1164,Tomb of the Black Dragon,20,43,256,0,43,256,0
+1165,Tomb of the Black Dragon,20,0,0,0,0,0,0
+1166,Cursed Maze,21,233,25,128,233,25,128
+1167,Cursed Maze,21,232,12,0,232,12,0
+1168,Tomb of the Black Dragon,20,35,255,192,35,255,192
+1169,Cursed Maze,21,0,0,0,0,0,0
+1170,Cursed Maze,21,191,399,0,191,399,0
+1171,Cursed Maze,21,0,0,0,0,0,0
+1172,Cursed Maze,21,144,399,0,144,399,0
+1173,Avalon Island,18,0,0,0,0,0,0
+1174,Aquarius,26,29,398,192,29,398,192
+1175,Aquarius,26,17,397,0,17,397,0
+1176,Requies Beach,17,299,118,0,299,118,0
+10000,Braiken Castle,0,0,0,0,0,0,0
+10001,Draco Desert,13,56,435,0,56,435,0
+20000,Braiken Castle,0,0,0,0,0,0,0
+20001,Draco Desert,13,55,55,0,55,55,0
+11000,Parca Temple,6,0,0,0,0,0,0
+11001,Parca Temple,6,301,255,0,301,255,0
+11002,Parca Temple,6,0,0,0,0,0,0
+11003,Parca Temple,6,327,255,0,327,255,0
+11004,Parca Temple,6,0,0,0,0,0,0
+11005,Parca Temple,6,69,326,0,69,326,0
+11006,Parca Temple,6,0,0,0,0,0,0
+11007,Parca Temple,6,87,325,0,87,325,0
+11008,Parca Temple,6,0,0,0,0,0,0
+11009,Parca Temple,6,135,397,0,135,397,0
+11010,Parca Temple,6,0,0,0,0,0,0
+11011,Parca Temple,6,135,377,0,135,377,0
+11012,Parca Temple,6,0,0,0,0,0,0
+11013,Parca Temple,6,203,326,0,203,326,0
+11014,Parca Temple,6,0,0,0,0,0,0
+11015,Parca Temple,6,183,325,0,183,325,0
+11016,Parca Temple,6,0,0,0,0,0,0
+11017,Parca Temple,6,70,186,0,70,186,0
+11018,Parca Temple,6,0,0,0,0,0,0
+11019,Parca Temple,6,87,185,0,87,185,0
+11020,Parca Temple,6,0,0,0,0,0,0
+11021,Parca Temple,6,135,134,0,135,134,0
+11022,Parca Temple,6,0,0,0,0,0,0
+11023,Parca Temple,6,135,114,0,135,114,0
+11024,Parca Temple,6,0,0,0,0,0,0
+11025,Parca Temple,6,202,186,0,202,186,0
+11026,Parca Temple,6,0,0,0,0,0,0
+11027,Parca Temple,6,183,185,0,183,185,0
+11028,Braiken Castle Underground Prison,16,0,0,0,0,0,0
+11029,Braiken Castle Underground Prison,16,218,255,0,218,255,0
+11030,Braiken Castle Underground Prison,16,0,0,0,0,0,0
+11031,Braiken Castle Underground Prison,16,294,256,0,294,256,0
+11032,Requies Beach,17,0,0,0,0,0,0
+11033,Requies Beach,17,59,78,0,59,78,0
+11034,Requies Beach,17,0,0,0,0,0,0
+11035,Requies Beach,17,136,115,0,136,115,0
+11036,Requies Beach,17,0,0,0,0,0,0
+11037,Requies Beach,17,239,422,0,239,422,0
+11038,Requies Beach,17,245,420,0,245,420,0
+11039,Requies Beach,17,303,423,0,303,423,0
+11040,Avalon Island,18,0,0,0,0,0,0
+11041,Avalon Island,18,308,273,0,308,273,0
+11042,Avalon Island,18,0,0,0,0,0,0
+11043,Avalon Island,18,391,359,0,391,359,0
+11044,Braiken Castle,0,264,242,0,264,242,0
+11045,Genoa Castle - Defending Side,23,69,205,128,69,205,128
+11046,Braiken Castle,0,264,242,0,264,242,0
+11047,Genoa Castle - Attacking Side,23,477,259,64,477,259,64
+11048,Braiken Castle,0,264,242,0,264,242,0
+11049,Genoa Castle,23,107,265,36,107,265,36
+11050,Genoa Castle,23,314,238,0,314,238,0
+11051,Genoa Castle,23,300,252,64,300,252,64
+11052,Genoa Castle,23,293,248,0,293,248,0
+11053,Genoa Castle,23,312,236,64,312,236,64
+11054,Genoa Castle,23,245,239,0,245,239,0
+11055,Genoa Castle,23,235,253,128,235,253,128
+11056,Genoa Castle,23,240,251,0,240,251,0
+11057,Genoa Castle,23,246,232,0,246,232,0
+11058,Genoa Castle,23,245,276,0,245,276,0
+11059,Genoa Castle,23,236,261,0,236,261,0
+11060,Genoa Castle,23,240,264,0,240,264,0
+11061,Genoa Castle,23,247,283,128,247,283,128
+11062,Genoa Castle,23,101,239,0,101,239,0
+11063,Genoa Castle,23,214,209,128,214,209,128
+11064,Genoa Castle,23,214,203,0,214,203,0
+11065,Genoa Castle,23,98,240,64,98,240,64
+11066,Genoa Castle,23,102,260,0,102,260,0
+11067,Genoa Castle,23,126,346,192,126,346,192
+11068,Genoa Castle,23,120,344,0,120,344,0
+11069,Genoa Castle,23,99,260,64,99,260,64
+11070,Genoa Castle,23,118,296,0,118,296,0
+11071,Genoa Castle,23,136,200,128,136,200,128
+11072,Genoa Castle,23,134,296,128,134,296,128
+11073,Genoa Castle,23,163,230,192,163,230,192
+11074,Genoa Castle,23,198,327,64,198,327,64
+11075,Genoa Castle,23,75,250,64,75,250,64
+11076,Genoa Castle,23,313,280,0,313,280,0
+11077,Genoa Castle,23,300,263,64,300,263,64
+11078,Genoa Castle,23,292,267,0,292,267,0
+11079,Genoa Castle,23,312,283,64,312,283,64
+11080,Genoa Castle,23,216,328,0,216,328,0
+11081,Genoa Castle,23,226,398,192,226,398,192
+11082,Genoa Castle,23,224,406,0,224,406,0
+11083,Genoa Castle,23,217,325,0,217,325,0
+11084,Treasure of Crespo,25,190,294,0,190,294,0
+11085,Treasure of Crespo,25,229,424,192,229,424,192
+11086,Treasure of Crespo,25,222,423,0,222,423,0
+11087,Treasure of Crespo,25,191,287,0,191,287,0
+11088,Treasure of Crespo,25,247,391,0,247,391,0
+11089,Treasure of Crespo,25,251,160,128,251,160,128
+11090,Treasure of Crespo,25,250,152,0,250,152,0
+11091,Treasure of Crespo,25,254,392,192,254,392,192
+11092,Treasure of Crespo,25,207,153,0,207,153,0
+11093,Treasure of Crespo,25,248,196,64,248,196,64
+11094,Treasure of Crespo_B,32,190,294,0,190,294,0
+11095,Treasure of Crespo_B,32,229,424,192,229,424,192
+11096,Treasure of Crespo_B,32,222,423,0,222,423,0
+11097,Treasure of Crespo_B,32,191,287,0,191,287,0
+11098,Treasure of Crespo_B,32,247,391,0,247,391,0
+11099,Treasure of Crespo_B,32,251,160,128,251,160,128
+11100,Treasure of Crespo_B,32,250,152,0,250,152,0
+11101,Treasure of Crespo_B,32,254,392,192,254,392,192
+11102,Treasure of Crespo_B,32,207,153,0,207,153,0
+11103,Treasure of Crespo_B,32,248,196,64,248,196,64
+11104,Treasure of Crespo_A,33,190,294,0,190,294,0
+11105,Treasure of Crespo_A,33,229,424,192,229,424,192
+11106,Treasure of Crespo_A,33,222,423,0,222,423,0
+11107,Treasure of Crespo_A,33,191,287,0,191,287,0
+11108,Treasure of Crespo_A,33,247,391,0,247,391,0
+11109,Treasure of Crespo_A,33,251,160,128,251,160,128
+11110,Treasure of Crespo_A,33,250,152,0,250,152,0
+11111,Treasure of Crespo_A,33,254,392,192,254,392,192
+11112,Treasure of Crespo_A,33,207,153,0,207,153,0
+11113,Treasure of Crespo_A,33,248,196,64,248,196,64
+11114,Nunvice Shrine,35,324,330,0,324,330,0
+11115,Nunvice Shrine,35,288,264,0,288,264,0
+11116,Nunvice Shrine_02,36,324,330,0,324,330,0
+11117,Nunvice Shrine_02,36,288,264,0,288,264,0
+11118,Nunvice Shrine_03,37,324,330,0,324,330,0
+11119,Nunvice Shrine_03,37,288,264,0,288,264,0
+11120,North Ares,1,465,492,0,465,492,0
+11121,Chain of Fire,45,340,176,89,340,176,89
+11122,Chain of Fire,45,345,168,0,345,168,0
+11123,North Ares,1,471,487,0,471,487,0
+11124,Dead Front_Rabble,39,263,394,0,263,394,0
+11125,Chain of Fire,45,334,252,64,334,252,64
+11126,Dead Front_Common,40,263,394,0,263,394,0
+11127,Chain of Fire,45,334,252,64,334,252,64
+11128,Dead Front_Baron,41,263,394,0,263,394,0
+11129,Chain of Fire,45,334,252,64,334,252,64
+11130,Dead Front_Earl,42,263,394,0,263,394,0
+11131,Chain of Fire,45,334,252,64,334,252,64
+11132,Dead Front_Duke,43,263,394,0,263,394,0
+11133,Chain of Fire,45,334,252,64,334,252,64
+11134,Dead Front_Arc,44,263,394,0,263,394,0
+11135,Chain of Fire,45,334,252,64,334,252,64
+11136,Dead Front_Rabble,39,258,364,0,258,364,0
+11137,Dead Front_Rabble,39,248,395,192,248,395,192
+11138,Dead Front_Common,40,258,364,0,258,364,0
+11139,Dead Front_Common,40,248,395,192,248,395,192
+11140,Dead Front_Baron,41,258,364,0,258,364,0
+11141,Dead Front_Baron,41,248,395,192,248,395,192
+11142,Dead Front_Earl,42,258,364,0,258,364,0
+11143,Dead Front_Earl,42,248,395,192,248,395,192
+11144,Dead Front_Duke,43,258,364,0,258,364,0
+11145,Dead Front_Duke,43,248,395,192,248,395,192
+11146,Dead Front_Arc,44,258,364,0,258,364,0
+11147,Dead Front_Arc,44,248,395,192,248,395,192
+11148,North Morte,8,0,0,0,0,0,0
+11149,Aquirai,46,463,480,0,463,480,0
+11150,Aquirai,46,462,490,0,462,490,0
+11151,North Morte,8,266,161,128,266,161,128
+11152,Aquirai,46,0,0,0,0,0,0
+11153,Aquirai,46,103,159,64,103,159,64
+11154,Aquirai,46,0,0,0,0,0,0
+11155,Aquirai,46,139,159,192,139,159,192
+11156,Aquarius,26,186,105,0,186,105,0
+11157,Aquarius,26,173,108,64,173,108,64
+11158,Aquarius,26,0,0,0,0,0,0
+11159,Aquarius,26,197,107,192,197,107,192
+11160,Space of Pilgrimage,47,484,38,0,484,38,0
+11161,Aquirai,46,47,445,0,47,445,0
+11162,Space of Pilgrimage,47,340,349,0,340,349,0
+11163,Space of Pilgrimage,47,281,349,64,281,349,64
+11164,Space of Pilgrimage,47,291,349,0,291,349,0
+11165,Space of Pilgrimage,47,350,349,192,350,349,192
+11166,Space of Pilgrimage,47,212,235,0,212,235,0
+11167,Space of Pilgrimage,47,212,159,0,212,159,0
+11168,Space of Pilgrimage,47,212,170,0,212,170,0
+11169,Space of Pilgrimage,47,212,246,128,212,246,128
+11170,Space of Pilgrimage,47,308,148,0,308,148,0
+11171,Space of Pilgrimage,47,305,218,0,305,218,0
+11172,Space of Pilgrimage,47,305,207,0,305,207,0
+11173,Space of Pilgrimage,47,310,138,0,310,138,0
+11174,Space of Pilgrimage,47,191,349,0,191,349,0
+11175,Space of Pilgrimage,47,167,350,0,167,350,0
+11176,Space of Pilgrimage,47,177,349,0,177,349,0
+11177,Space of Pilgrimage,47,220,349,0,220,349,0

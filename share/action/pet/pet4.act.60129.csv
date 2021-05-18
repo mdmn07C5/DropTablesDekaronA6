@@ -1,0 +1,14 @@
+Creature,PET,,,,,,,,,,,
+Index,60129,,,,,,,,,,,
+Skeleton,Monster\pet05.skel,,,,,,,,,,,
+
+Style,Action,Index,Animation,Start_Inter,End_Inter,TimeLength,Swing,Strike,Timing,Split,Timing2,Freeze
+0,STAND,0,Monster\Pet05\Pet05_stand.anim,4,1,11,0,0,0,0,0,0
+0,STAND,1,Monster\Pet05\Pet05_stand.anim,4,1,11,0,0,0,0,0,0
+0,SM_STAND,0,Monster\Pet05\Pet05_swim_stand.anim,4,1,13,0,0,0,0,0,0
+0,SM_STAND,1,Monster\Pet05\Pet05_swim_stand.anim,4,1,13,0,0,0,0,0,0
+0,REVIVE,0,,0,1,0,0,0,0,0,0,0
+0,MOVE,0,Monster\Pet05\Pet05_walk.anim,4,1,4,0,0,0,0,0,0
+0,MOVE,1,Monster\Pet05\Pet05_crun.anim,4,1,4,0,0,0,0,0,0
+0,SM_MOVE,0,Monster\Pet05\Pet05_swim_walk.anim,4,1,4,0,0,0,0,0,0
+0,SM_MOVE,1,Monster\Pet05\Pet05_swim_crun.anim,4,1,4,0,0,0,0,0,0

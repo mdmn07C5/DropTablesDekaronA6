@@ -1,0 +1,8 @@
+Creature,BRICK,,,,,,,,,,,,,,,
+Index,36070,,,,,,,,,,,,,,,
+Skeleton,Brick\dp_fortress_defence_01.skel,,,,,,,,,,,,,,,
+
+Style,Action,Index,Animation,Start_Inter,End_Inter,TimeLength,Swing,Strike,Timing,Split,Timing2,Freeze,Effect,CancelTime,DefaultAction,Intersect
+0,OPENBRICK,0,,1,1,0,0,0,0,0,0,0,0,0,0,0
+0,CLOSEBRICK,0,Brick\fortress_defence\dp_fortress_defence_01.anim,1,1,2,0,0,0,0,0,0,0,0,0,0
+0,DEAD,0,Brick\fortress_defence\dp_fortress_defence_01_die.anim,1,1,4,0,0,0,0,0,0,8,0,0,0

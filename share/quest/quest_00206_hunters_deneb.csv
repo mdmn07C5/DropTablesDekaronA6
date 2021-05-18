@@ -1,0 +1,15 @@
+'s Skill Master Judiana.
+}
+
+code 2100 #Level 19 Hunter dialogue
+{
+<color=0080ff><font=4>TIP! <Lv.19 Learning a new skill></color></font>
+
+Congratulations. You have reached Level 19. You can learn 
+the new skill, Fire Arrow, from Braiken's skill master Tanesia 
+and Loa's Skill Master Bruna.
+}
+
+code 2200 #Level 20 Knight dialogue
+{
+<color=0080ff><font

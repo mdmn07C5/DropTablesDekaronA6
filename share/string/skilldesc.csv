@@ -1,0 +1,206 @@
+index,name
+1,Sword Class\This skill increases your sword fighting abilities and increases\attack power.
+2,Sword Class\This is a basic skill of Azure Knight¢¬a spinning attack the slices\your enemies.
+3,Sword Class\Reduces the damage by using the sword to block\an enemy's attack.
+4,Sword Class\Stabs the enemy's vital organs; decreasing the enemy's max HP.
+21,Mace Class\This skill increases your mace fighting abilities and\it increases the power of your attacks.
+22,Mace Class\Strikes the enemy with the full weight of the mace and\reduces their defense.
+23,Mace Class\An upper body attack with the mace that inflicts great damage.
+24,Mace Class\Strikes the mace down to make the ground shake.
+41,Axe Class\This skill increases your axe fighting abilities and increases\your attack power.
+42,Axe Class\This brutal axe skill delivers two downward chops to the enemy.
+43,Axe Class\Taking a low stance¢¬you deliver a slicing cut to the enemy's\achilles' tendon¢¬causing some damage over time.
+44,Axe Class\A slicing cut to the enemy's wrist decreases their attack speed.
+61,Dual Weapon\This skill increases your dual weapon abilities¢¬increasing your\overall attack power.
+62,Dual Weapon\Use dual weapons to stab and slash the enemy.
+63,Dual Weapon\A big spinning move hits the enemy with multiple slashing attacks.
+64,Dual Weapon\Uses the sword's spirit to slash the enemy at a distance.
+81,All Weapon\Meditiating on your strength¢¬you can increase your max HP.
+82,All Weapon\The Azure Knight must train hard to unite body and earth.\With this shout he increases HP recovery rate for a\period of time.
+83,All Weapon\Strength is concentrated to deliver a mighty blow.
+84,All Weapon\Use the force of a spinning attack to deliver blows to multiple\enemies in range of your weapons.
+85,All Weapon\Unifies the Azure Knight's body and spirit to attack nearby\enemies 4 times.
+101,All Weapon\Increase the rate of blocking using this skill.  The blocking rate\increases as this skill is increased.
+102,All Weapon\Use the power of the wind to increase movement speed\for a short time.
+103,All Weapon\Forcing extra concentration and maximum body performance¢¬\you increase your critical rate for a short time.
+104,All Weapon\You go into a berserk state where you feel no pain and fight like\a madman; however¢¬enemies may get through your defense\more easily and your attack speed decreases slightly.
+141,Shield Class\Reinforces your shield and increases its maximum defense.
+142,Shield Class\Strikes the enemy with the force of your body behind the shield.
+143,Shield Class\This skill first strikes the enemy¢¬then blocks his vision¢¬delivering\a powerful blow. 
+161,Two-Hand Class\Increases the attack power of two-handed weapons.
+162,Two-Hand Class\With the full weight of a two-handed weapon¢¬you strike\the enemy 3 times in a row.
+163,Two-Hand Class\In a berserker mode¢¬your attack power increases and\you smash the enemy twice.
+164,Two-Hand Class\Your spirit infuses the weapon and your attack affects multiple\enemies¢¬damaging their armor and lowering their defense.
+121,Dual Weapon\Increases the critical rate of dual-wielding Knights.
+122,Dual Weapon\Drawing from the natural forces of the heavens¢¬you strike your\enemy 7 times¢¬causing critical damage.  The enemy will suffer\bleeding damage for a time after the attack.
+201,Bow\This skill increases your archery skill with the bow and\increases your attack power.
+202,Crossbow\This skill increases your archery skill with the crossbow and\increases your attack power.
+203,Bow\Crossbow\Randomly fires arrows at multiple enemies with a low chance of\piercing¢¬so it is good for emergencies.
+204,Bow\Fires a strong shot at enemies directly ahead.
+205,Bow\Crossbow\The basic skill of all Segita Hunters.  Shoots an arrow or a bolt\using the Hunter's concentrated strength.
+206,Bow\This skill draws upon the tri-force of the three realms to\concentrate gravity and fire multiple arrows into an area¢¬\damaging multiple enemies with one shot.
+207,Crossbow\Fires piercing bolts.  Requires good basic skills to master. 
+208,Crossbow\This expert Segita Hunter skill fires bolts that can chase the enemy. 
+209,Bow\Crossbow\This shot seeks a weak point and inflicts major damage to the enemy. 
+210,Bow\Crossbow\The arrow or bolt explodes on impact and does damage to\multiple enemies.
+221,Bow\Crossbow\With increased concentration¢¬you can fire long-range attacks\with an increased rate of critical hits.
+241,Bow\Crossbow\Shoots an arrow/bolt that has a fire element.  The shot causes a\burning effect.
+242,Bow\Crossbow\Shoots an arrow/bolt that has an ice element.  The shot freezes\the enemy temporarily.
+243,Bow\Crossbow\Shoots a poisoned arrow/bolt that does poison damage over time. 
+244,Bow\Crossbow\Shoots arrow/bolt with an explosive charge.  On impact¢¬it will\cause peripheral damage to nearby enemies.
+245,Bow\Crossbow\Shoots strong¢¬but very slow arrow/bolt.
+281,Dagger\This skill increases your dagger skill and increases attack power.
+282,Dagger\Quickly stab an enemy and step back.
+283,Dagger\Spin and move forward¢¬slashing the enemy with the edge of the dagger. 
+341,All Weapon\Increase movement speed for a short time by invoking the power\of the wind and the protection of Cun¢¬the patron goddesss of\the Segita.
+342,Bow\Crossbow\Shoot arrows or bolts at an increased firing rate¢¬but with a\penalty to movement.
+361,All Weapon\Use this skill to increase your HP recovery rate temporarily¢¬\but at the expense of your blocking ability¢¬which will be reduced.
+401,All Weapon\This magician's mastery skill increases your defense.
+402,All Weapon\This basic energy attack can be cast from a distance. 
+403,All Weapon\Use your mana to add to your protection.
+404,All Weapon\Creates a large energy hammer that attacks 3 times¢¬causing\physical damage.
+421,All Weapon\Use this skill to trade mana for health while greatly increasing\mana recovery for a short time.
+441,All Weapon\Use this skill to increase elemental magic and increase the power of\magic attacks. 
+461,All Weapon\By training the fire element¢¬you increase attack power and\resistance. 
+462,All Weapon\This basic fire attack shoots a small fireball at the enemy.
+463,All Weapon\This fire attack can also cause damage to nearby enemies.
+464,All Weapon\Create a huge fire explosion on a certain target or area and\damage multiple enemies.
+465,All Weapon\A high pillar of flame rises around you¢¬damaging any enemies\who get too close.
+466,All Weapon\Attacks the enemy by throwing spheres of fire.
+501,All Weapon\By training the ice element¢¬you increase attack power and\resistance. 
+502,All Weapon\This basic ice attack shoots small ice spikes at distant enemies.
+503,All Weapon\Cast an ice element to freeze an enemy. 
+504,All Weapon\Attacks the enemy by raising sharp ice pieces from the ground and\freezing them.
+505,All Weapon\Attacks the enemy by dropping many ice pieces on an area.
+506,All Weapon\Attacks the enemy by shooting a very sharp shard of ice.
+541,All Weapon\By training the lightning element¢¬you increase attack power and\resistance. 
+542,All Weapon\This basic lightning skill shoots a small spark at a distant enemy.
+543,All Weapon\This lightning attack can also inflict damage on nearby enemies. 
+544,All Weapon\Call upon many bolts of lightning to fall upon your enemies.
+545,All Weapon\Gather the forces of light into a powerful lightning attack.
+546,All Weapon\Fire a sphere of condensed lightning to electrocute the enemy.
+601,All Weapon\Increases your HP recovery rate and reduce attack success rate\of beasts.
+602,All Weapon\Summons Regulus¢¬a lightning demon.
+603,All Weapon\Summons Grewpain¢¬an ice demon.
+604,All Weapon\Summons Selaime¢¬a fire demon.
+641,All Weapon\Increases the Hp recovery rate and critical success rate of Libidos.
+642,All Weapon\Summons a Tarantula from the Abyss.
+643,All Weapon\Summons Aldebaran from the Abyss.
+644,All Weapon\Summons Tentator from the Abyss.
+721,Twin Sword\Increases the Summoner's attack.
+722,Twin Sword\Staff\Instantly emanates spiritual energy from the Summoner¢¬\inflicting damage on the enemy. 
+723,Twin Sword\Staff\Attacks the enemy by summoning a sword from the Dark Realm and\shooting it.
+724,Twin Sword\Staff\Summons contaminated bats to infllict severe damage on the enemy.
+725,Twin Sword\Fast¢¬heavy damage attack with the Twin Sword. 
+726,Twin Sword\Swing high and slash the enemy with the Twin Sword.
+727,Staff\Increases magic attack ability and poison resistance.
+728,Staff\Summon thorns from the Abyss to damage and slow your enemy.
+729,Twin Sword\Quickly spin the weapon around the body to attack nearby enemies.
+730,Staff\Summon spirits from the Abyss to attack multiple enemies.
+731,Twin Sword\The Twin Sword is infused with poison and attacks the\enemy 3 times¢¬causing additional poison damage.
+732,Staff\Creates a poison explosion around the target area that attacks\all surrounding enemies and poisons them.
+741,All Weapon\Magically reflect part of an opponent's damage back at them. 
+801,All Weapon\Using a deep spiritual concentration¢¬you can increase your\mana recovery rate.
+802,All Weapon\Recovers the target player's HP
+803,All Weapon\Recovers the target player's HP and sustains the effect for\a certain amount of time.
+804,All Weapon\Recovers HP of party members within a certain range.
+805,All Weapon\Revives a fallen player.
+806,All Weapon\Recovers your HP.
+821,All Weapon\Increases the guard rate of the target player for a certain\amount of time.
+822,All Weapon\Increases the defense of the target player for a certain\amount of time.
+823,All Weapon\Increases the attack power of the target player for a certain\amount of time.
+824,All Weapon\Adds curse damage to your attack for a period of time¢¬causing\temporary schizophrenia and decreasing MP for the duration.
+861,All Weapon\Increases curse attack power.
+862,Blood Whip\Causes the back flow of enemy's blood to inflict curse damage.
+863,Blood Whip\After attacking the enemy with Blood Whip and causing physical\damage¢¬you absorb some of their blood and steal some HP. 
+864,Blood Whip\Contaminate an area with a curse that inflicts curse damage on\all enemies inside that area.
+881,All Weapon\Immobilize an opponent for a short time.
+882,All Weapon\Decreases an enemy's magic attack for certain amount of time.
+883,All Weapon\Decreases an enemy's attack power for certain amount of time.
+884,All Weapon\Decreases an enemy's defense for certain amount of time.
+921,All Weapon\Use this skill to increase your blood flow and increase your\HP recovery rate.
+922,Blood Whip\Summons a Blood Scythe that slashes the enemy with\physical damage and immobilizes them temporarily.
+923,Blood Whip\Summons a ghostly spear that stabs the enemy with physical\damage.  The bloodwhip creates a fusion of blood that causes\an explosion of curse damage.
+924,Blood Whip\Quickly attacks the enemy with physical damage multiple times¢¬\depending on your skill level.
+211,Bow\Crossbow\Soars to the sky with strength of crows and attacks the enemy.\Finally¢¬ischarges energy in form of a crow which\attacks the enemy.
+645,All Weapon\Summons Anathema¢¬a curse demon.
+605,All Weapon\Summons Bregon¢¬a fire demon.
+467,All Weapon\Uses the power of the Phoenix to cast a fire attack on all enemies in\a straight line.
+507,All Weapon\Using the power of an ice spirit¢¬you freeze all enemies within\a certain range.
+547,All Weapon\Gather lightning energy and launch a double attack. 
+5,Sword Class\Quickly slash one enemy¢¬then another as you move past them.
+25,Mace Class\This 3-hit combo hits with explosive power and causes peripheral\damage to nearby enemies through the concussive force of the\explosion.
+45,Axe Class\A double axe strike on one enemy¢¬punctuated by\a piercing-physical attack on any enemies in a\direct line. 
+65,Dual Weapon\This 6-hit attack skill inflicts severe damage to one enemy.\The final attack is a range attack that inflicts damage to\surrounding enemies.
+181,Fishing Rod\This allows you to fish.
+381,Fishing Rod\This allows you to fish.
+581,Fishing Rod\This allows you to fish.
+781,Fishing Rod\This allows you to fish.
+981,Fishing Rod\This allows you to fish.
+733,Twin\Create a doppelganger of yourself¢¬which will attack nearby\enemies with 5 strong attacks. 
+734,Staff\Shoots a poisoned sphere that  hits twice.
+735,Staff\Summons a messenger of the Abyss which attacks 5 times.
+144,All Weapon\A basic Knight skill that attacks quickly.
+212,Bow\Crossbow\A basic Segita Hunter skill that shoots two arrows or bolts.
+405,All Weapon\An improved form of Energy Jab that forms energy into a sphere and\shoots it at the enemy.
+736,All Weapon\A skill learned by Summoners to protect themselves when they\have not decided on their weapon.
+926,All Weapon\A basic Segnale long-range curse skill.
+925,All Weapon\Borrowing powers from the Abyss¢¬the Segnale can shout and\inflict damage in three fast curse attacks. 
+885,All Weapon\Cancels all negative effects on the target player.
+927,Blood Whip\Stretches fingernails like tentacles¢¬slowing the enemy and\inflicting 3 curse attacks. 
+928,Blood Whip\Borrows the forces of the Abyss to amplify the Segnale's strength¢¬\attacking the enemy 6 times with cursed fingernails.\  The first and the last attacks are curse-based and rest are\physical attack.
+1001,Gauntlet\A basic Bagi Warrior skill that attacks an enemy one time. 
+1002,Gauntlet\This is a battle experience skill that increases physical attack power and\critical attack rate permanently.
+1003,Gauntlet\A melee 2-hit physical attack against one enemy.
+1004,Gauntlet\A melee 4-hit strong double fisted physical attack against one enemy.
+1005,Gauntlet\A strong 2-hit attack that distorts space within a certain range;\the last hit will stun the enemy.
+1006,Gauntlet\A melee 3-hit physical attack against one enemy; the last hit will\knock back all surrounding enemies and electrocute them.
+1007,Gauntlet\A quick 7-hit attack against one enemy; the last hit will knock back\the enemy.
+1008,Gauntlet\A quick and strong 5-hit physical attack that shakes the ground first¢¬\then attacks all enemies in front 4 times¢¬ending with\a knock back effect.
+1021,Gauntlet\Raises body ability to the extreme limit and increases\attack speed for short period of time.
+1022,Gauntlet\Raises body ability to the extreme limit and increases\attack power for short period of time.
+1023,Gauntlet\Raises body ability to the extreme limit and acquires power and\attack speed like a bull.  Casting it will inflict a physical attack on\surrounding enemies.
+1101,Gauntlet\A skill that enables one to control Karon's spirit; permanently\increases critical rate and all resistances.
+1102,Gauntlet\Loads one's fist with Karon's spirit and inflicts physical damage on\enemies straight ahead.
+1103,Gauntlet\Loads one's fist with Karon's spirit and strikes the ground to inflict\a physical attack¢¬also stunning the enemy.
+1104,Gauntlet\Using Karon's spirit¢¬forms a gale from the chest and inflicts\physical damage on enemies in 3 attacks¢¬ending in\a knock back effect. 
+1105,Gauntlet\Instantly amplifies Karon's strength and distorts surrounding\space inflicting a 5-hit physical attack on all enemies in\a certain range.
+1121,Gauntlet\Using Karon's spirit¢¬increases one's physical defense for\certain amount of time.
+1122,Gauntlet\Using Karon's spirit¢¬increases all resistances against magic for\certain amount of time.
+1123,Gauntlet\Using Karon's spirit¢¬increases one's physical resistance for\certain amount of time.
+1124,Gauntlet\Using Karon's spirit¢¬protects the Bagi from abnormal effects for\a period of time¢¬but does not cancel any effects already affecting\the character.
+1141,Gauntlet\Using Karon's spirit¢¬adds the fire element to the Bagi's fist¢¬\but will decrease the effect of lightning-based attacks.
+1142,Gauntlet\Using Karon's spirit¢¬adds the ice element to the Bagi's fist¢¬\but will decrease the effect of fire-based attacks.
+1143,Gauntlet\Using Karon's spirit¢¬adds the lightning element to the Bagi's fist¢¬\but will decrease the effect of fire-based attacks.
+1181,Fishing Rod\This allows you to fish.
+468,All Weapon\Erects a pillar of flames that attacks all enemies in front of\you twice and leaves them with burning damage for a period of time. 
+508,All Weapon\Create a blizzard that freezes one enemy and attacks\all surrounding enemies 5 times. 
+548,All Weapon\Electrocute nearby enemies by calling the power of lightning in\multiple attacks. 
+841,All Weapon\Increases guard rate of party members for a certain period of time.\Cannot be stacked with Rising Guard. 
+842,All Weapon\Increases defense of party members for a certain period of time.\Cannot be stacked with Magic Shield. 
+843,All Weapon\Increases physical and magical attack power of party members for\a certain period of time.  Cannot be stacked with Increase Attack.
+213,Bow\This skill attracts the holy energy of Cun¢¬goddess of moonlight¢¬\and sends it along the arrow¢¬causing a 4-hit explosion.\Other skills are temporarily suspended¢¬however.
+214,Crossbow\With a strong internal energy¢¬the bolt hits 3 times¢¬and\each time it causes an explosion that affects nearby enemies.\Other skills are temporarily suspended¢¬however.
+284,Dagger\This skill focuses all of one's spirit on the end of the dagger and\gives a fatal blow to the enemy.\Most targets will suffer critical damage and will bleed.
+285,Dagger\Execute a low¢¬spinning attack and then escape quickly¢¬\leaving the enemy temporarily immobilized. 
+362,All Weapons\This skill converts the inward strength to outward strength.\Max PK Shield decreases significantly¢¬but the MAX HP increases.
+1009,Gauntlet\This skill will attack 3 times with an explosive blow¢¬knocking back\enemies¢¬and ending with a wide attack. 
+1106,Gauntlet\This skill awakens the spirit living in the Bagi's flesh and\causes a tornado¢¬which attacks multiple times¢¬depending on\the skill level. 
+1107,Gauntlet\This skill reduces HP to maintain Karon's cobalt flame on the body\for a moment.  Targets touched with the flame will\receive continuous damage.
+737,Staff\This skill summons poison-filled Palpus from Foreign Realm¢¬ and spits out venom 3 times. \The opponent that is poisoned cannot attack back momentarily¢¬ and \loses poison resistance completely.
+738,Twin Sword\This skill summons the Royal Guard from Foreign Realm who is armed with 6 swords. He \shoots the swords into the ground causing deadly sharp objects to rise¢¬ \inflicting strong damage in an area effect¢¬ hitting opponents 9 times.
+606,All Weapon\This skill summons Agareth¢¬ Priest of Hell.
+646,All Weapon\This skill summons Musfel¢¬ Soldier of the Foreign Realm.
+621,All Weapon\This skill orders Bregon to attack. \Bregon shoots his weapon forward¢¬ \inflicting heavy damage to wide-range of oppoments.
+622,All Weapon\This skill orders Agareth to attack. \Agareth summons poison-filled meteorites and drops them among the enemy. \The opponent will be surrounded by poisonous gas and will receive triple poison damage over time.
+661,All Weapon\This skill orders Anadema to attack. \Anadema shoots the spirit stored in its weapon \and inflicts piercing damage to multiple targets.
+662,All Weapon\This orders Musfel to provoke the opponent. \Musfel goes berserk and taunts enemies within sight to \attack. In the  berserk state¢¬ Musfel has maximum defense¢¬ enabling him to resist many enemy attacks.
+86,All Weapon\Using strong turning force and sword spirit¢¬ this skill strikes surrounding enemies 3 times.\On the last strike¢¬ enemy's tolerance is weakened by the physical energy charged up in the sword. \It increases the chance of the enemy falling
+123,Dual Weapon\This is a basic skill for Dual Knights. After inflicting two strikes upon a single enemy¢¬ \this skill damages the surrounding enemies with the dual-wielded weapons.
+124,Dual Weapon\This is a skill for experienced Dual Knights. Utilizing two weapons¢¬ \this skill inflicts damage on surrounding enemies for 4 times.
+145,Shield Type\After putting physical energy into the shield¢¬ this skill inflicts ranged damage to the opponent 3 times. \<color=ff0000>The opponent that got attacked(PC): Targeting will be cancelled</color>\<color=ff0000>Nearby party members: increa
+929,Blood Whip\This skill forcefully spins a transformed curse Chakram from the Bloodwhip¢¬ \and inflicts two range damage hits on the enemy. 
+930,Bloodwhip\This skill fuses the fingernails into a strong spike that lays a powerful curse \on the enemy with some chance of decreasing their curse resistance.
+406,All Weapon\This is a high-level Incar magic that covers an area with crystals imbued with spirits \which sap the enemy's resistances. \\<color=ff0000>All of the target's fire¢¬ ice¢¬ and lightning resistance is decreased</color>\<color=ff0000>The
+422,All Weapon\This skill is a non-elemental magic that sublimes attack energy  \into one's Spirit\\<color=ff0000> Mana consumption is decreased when performing skills.</color>
+407,All Weapon\This is an ultimate skill that controls the source of water. \It amplifies one's magical strength instantly \and inflicts damage to a large area 3 times.\

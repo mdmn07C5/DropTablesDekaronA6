@@ -1,0 +1,8 @@
+Creature,BRICK,,,,,,,,,,,,,,,
+Index,35013,,,,,,,,,,,,,,,
+Skeleton,Brick\nun_room-door_01.skel,,,,,,,,,,,,,,,
+
+Style,Action,Index,Animation,Start_Inter,End_Inter,TimeLength,Swing,Strike,Timing,Split,Timing2,Freeze,Effect,CancelTime,DefaultAction,Intersect
+0,OPENBRICK,0,Brick\indun_door\nun_room-door_01_die.anim,4,1,2,0,0,0.1,1,0,0,3,0,0,0
+0,CLOSEBRICK,0,Brick\indun_door\nun_room-door_01.anim ,4,1,6,0,0,0,0,0,0,0,0,0,0
+0,DEAD,0,Brick\indun_door\nun_room-door_01_die.anim,4,1,2,0,0,0.1,1,0,0,3,0,0,0

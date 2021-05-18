@@ -1,0 +1,8 @@
+Creature,BRICK,,,,,,,,,,,,,,,
+Index,36402,,,,,,,,,,,,,,,
+Skeleton,Brick\mon_irondoor_01.skel,,,,,,,,,,,,,,,
+
+Style,Action,Index,Animation,Start_Inter,End_Inter,TimeLength,Swing,Strike,Timing,Split,Timing2,Freeze,Effect,CancelTime,DefaultAction,Intersect
+0,OPENBRICK,0,Brick\indun_door\mon_irondoor_01_die.anim,4,1,3.481,0,0,0.1,1,0,0,0,0,0,2
+0,CLOSEBRICK,0,Brick\indun_door\mon_irondoor_01.anim,4,1,1.333,0,0,0,0,0,0,0,0,0,2
+0,DEAD,0,Brick\indun_door\mon_irondoor_01_die.anim,4,1,3.481,0,0,0.1,1,0,0,0,0,0,2

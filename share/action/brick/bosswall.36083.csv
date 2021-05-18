@@ -1,0 +1,8 @@
+Creature,BRICK,,,,,,,,,,,,,,,
+Index,36083,,,,,,,,,,,,,,,
+Skeleton,Brick\dp_bosswall.skel,,,,,,,,,,,,,,,
+
+Style,Action,Index,Animation,Start_Inter,End_Inter,TimeLength,Swing,Strike,Timing,Split,Timing2,Freeze,Effect,CancelTime,DefaultAction,Intersect
+0,OPENBRICK,0,,1,1,0,0,0,0,0,0,0,0,0,0,0
+0,CLOSEBRICK,0,Brick\bosswall\dp_bosswall.anim,1,1,2,0,0,0,0,0,0,0,0,0,2
+0,DEAD,0,Brick\bosswall\dp_bosswall_die.anim,1,1,8,0,0,0,0,0,0,9,0,0,0

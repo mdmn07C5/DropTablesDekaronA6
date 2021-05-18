@@ -1,0 +1,9 @@
+Index,Name,Rank,ShapeInfo,DescriptionInfo,EnterEffect,LeaveEffect,LeaveEffectTime,LeaveSceneID,WalkSpeed,AIKey
+60090,Woody,2,pet01,0,3185,3185,1000,1,6,21
+60093,Wiki,2,pet02,0,3185,3185,1000,1,6,21
+60096,Ariel,2,pet03,0,3187,3187,1000,1,6,21
+60129,Kittay,2,pet05,0,3185,3185,1000,1,6,21
+60132,Demi,2,pet04,0,3187,3187,1000,1,6,21
+62619,Woody,2,pet01,0,3185,3185,1000,1,6,21
+62622,Wiki,2,pet02,0,3185,3185,1000,1,6,21
+62625,Ariel,2,pet03,0,3187,3187,1000,1,6,21

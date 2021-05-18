@@ -1,0 +1,8 @@
+Creature,BRICK,,,,,,,,,,,,,,,
+Index,36087,,,,,,,,,,,,,,,
+Skeleton,Brick\orphina.skel,,,,,,,,,,,,,,,
+
+Style,Action,Index,Animation,Start_Inter,End_Inter,TimeLength,Swing,Strike,Timing,Split,Timing2,Freeze,Effect,CancelTime,DefaultAction,Intersect
+0,OPENBRICK,0,Brick\Orphina\orphina_disappear_01.anim,1,1,1,0,0,0,0,0,0,0,0,0,0
+0,CLOSEBRICK,0,Brick\Orphina\orphina_stand_01.anim,1,1,2,0,0,0,0,0,0,0,0,0,0
+0,DEAD,0,Brick\Orphina\orphina_transformation_01.anim,1,1,9,0,0,0,0,0,0,2,0,0,0

@@ -1,0 +1,13 @@
+Creature,NPC
+Index,303
+Skeleton,NPC\npc_yod.skel
+
+Style,Action,Index,Animation,Start_Inter,End_Inter,TimeLength,Swing,Strike,Timing,Split,Timing2,Freeze
+0,STAND,0,NPC\npc_yod.anim,1.000000,1.000000,2.700000,0,0,0,0,0,0
+0,STAND,1,NPC\npc_yod.anim,1.000000,1.000000,2.700000,0,0,0,0,0,0
+0,REVIVE,0,NPC\npc_yod.anim,1.000000,1.000000,2.700000,0,0,0,0,0,0
+0,MOVE,0,,0.000000,1.000000,1.000000,0,0,0,0,0,0
+0,MOVE,1,,0.000000,1.000000,1.000000,0,0,0,0,0,0
+0,ATTACK,0,,0.000000,1.0,0.000000,0,0,0.000000,0,1,0
+0,DEFEAT,0,,0.000000,1.0,0.000000,0,0,0.000000,0,0,0
+0,DEAD,0,,0.000000,1.0,0.000000,0,0,0.000000,0,0,0

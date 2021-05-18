@@ -1,0 +1,64 @@
+Index,500,501,502,503
+Description,Treasure of Crespo,Magic Field of Crevice,Transport Ship of Karon,Nest of Cherubim
+TotalCount,8,7,6,8
+PriceItemIndex,6103,6104,6149,6148
+ItemDescription,Rare Laker Steak (15),Greasy Smoked Carmin (15),Urca Kuende,Fried Crunchy Mantis (15)
+GiveItemIndex,56531,56533,64618,56560
+GiveItemCount,15,15,1,15
+TakeItemIndex,0,0,0,0
+PriceCount,15,15,30,30
+ItemDescription,Rare Laker Steak (30),Greasy Smoked Carmin (30),Banya Anar,Fried Crunchy Mantis (30)
+GiveItemIndex,56531,56533,64091,56560
+GiveItemCount,30,30,1,30
+TakeItemIndex,0,0,0,0
+PriceCount,25,25,30,55
+ItemDescription,Clear Mullet Stew (15),Crisp and Pure Water of Avalon (15),Nasar Lana,Clear Parca Holy Water (15)
+GiveItemIndex,56532,56534,65161,56561
+GiveItemCount,15,15,1,15
+TakeItemIndex,0,0,0,0
+PriceCount,15,10,30,30
+ItemDescription,Clear Mullet Stew (30),Crisp and Pure Water of Avalon (30),The Qualines Return Scroll (10),Clear Parca Holy Water (30)
+GiveItemIndex,56532,56534,4007,56561
+GiveItemCount,30,30,10,30
+TakeItemIndex,0,0,0,0
+PriceCount,25,15,50,55
+ItemDescription,Argama Pet,Blade of the Ancient,Dice (1000),Morse Yalawai Return Scroll (10)
+GiveItemIndex,56501,6097,3200,4006
+GiveItemCount,1,1,1000,10
+TakeItemIndex,0,0,0,0
+PriceCount,50,35,150,90
+ItemDescription,Duron Fishing Rod,Tuban's Head,Dice (5000),Summon Scroll of Pledge
+GiveItemIndex,56537,56502,3200,6170
+GiveItemCount,1,1,5000,1
+TakeItemIndex,0,0,0,0
+PriceCount,120,90,600,250
+ItemDescription,Strengthened Dark Eye,Zevach's Ring,0,Noble Soul
+GiveItemIndex,56535,56536,0,64086
+GiveItemCount,1,1,0,1
+TakeItemIndex,64046,0,0,0
+PriceCount,180,300,0,900
+ItemDescription,Gibor's Necklace,0,0,Daes Arie
+GiveItemIndex,56538,0,0,64617
+GiveItemCount,1,0,0,1
+TakeItemIndex,0,0,0,56536
+PriceCount,250,0,0,1500
+ItemDescription,0,0,0,0
+GiveItemIndex,0,0,0,0
+GiveItemCount,0,0,0,0
+TakeItemIndex,0,0,0,0
+PriceCount,0,0,0,0
+ItemDescription,0,0,0,0
+GiveItemIndex,0,0,0,0
+GiveItemCount,0,0,0,0
+TakeItemIndex,0,0,0,0
+PriceCount,0,0,0,0
+ItemDescription,0,0,0,0
+GiveItemIndex,0,0,0,0
+GiveItemCount,0,0,0,0
+TakeItemIndex,0,0,0,0
+PriceCount,0,0,0,0
+ItemDescription,0,0,0,0
+GiveItemIndex,0,0,0,0
+GiveItemCount,0,0,0,0
+TakeItemIndex,0,0,0,0
+PriceCount,0,0,0,0

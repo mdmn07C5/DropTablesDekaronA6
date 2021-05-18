@@ -1,0 +1,16 @@
+PatternIndex,PatternCsvRoot
+1,Pattern\Positive_Attack.csv
+2,Pattern\Negative_Attack.csv
+3,Pattern\Range_Attack.csv
+4,Pattern\NegativeCall_Attack.csv
+5,Pattern\PositiveCall_Attack.csv
+6,Pattern\RangeCall_Attack.csv
+7,Pattern\Event.csv
+8,Pattern\Positive_Attack_noex.csv
+9,Pattern\Range_Attack_noex.csv
+20,Pattern\Regulus.csv
+21,Pattern\Grupain.csv
+22,Pattern\Tarantula.csv
+23,Pattern\Aldebaran.csv
+1000,Pattern\Call.csv
+1002,Pattern\Stop.csv

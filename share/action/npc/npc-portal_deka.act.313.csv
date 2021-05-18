@@ -1,0 +1,13 @@
+Creature,NPC,,,,,,,,,,,
+Index,313,,,,,,,,,,,
+Skeleton,Object\Etc\gate_portal_01.skel,,,,,,,,,,,
+
+Style,Action,Index,Animation,Start_Inter,End_Inter,TimeLength,Swing,Strike,Timing,Split,Timing2,Freeze
+0,STAND,0,Object\Etc\gate_portal_01.anim,90,1,27,0,0,0,0,0,0
+0,STAND,1,Object\Etc\gate_portal_01.anim,90,1,27,0,0,0,0,0,0
+0,REVIVE,0,Object\Etc\gate_portal_01.anim,90,1,27,0,0,0,0,0,0
+0,MOVE,0,,0,1,1,0,0,0,0,0,0
+0,MOVE,1,,0,1,1,0,0,0,0,0,0
+0,ATTACK,0,,0,1,0,0,0,0,0,1,0
+0,DEFEAT,0,,0,1,0,0,0,0,0,0,0
+0,DEAD,0,,0,1,0,0,0,0,0,0,0

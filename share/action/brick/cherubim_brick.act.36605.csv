@@ -1,0 +1,8 @@
+Creature,BRICK,,,,,,,,,,,,,,,
+Index,36605,,,,,,,,,,,,,,,
+Skeleton,Brick\cf_door_iron_open_01.skel,,,,,,,,,,,,,,,
+
+Style,Action,Index,Animation,Start_Inter,End_Inter,TimeLength,Swing,Strike,Timing,Split,Timing2,Freeze,Effect,CancelTime,DefaultAction,Intersect
+0,OPENBRICK,0,Brick\cherubim_door\cf_door_iron_open_01.anim,4,1,3,0,0,0.1,1,0,0,0,0,0,0
+0,CLOSEBRICK,0,Brick\cherubim_door\cf_door_iron_close_01.anim,4,1,3,0,0,0,0,0,0,0,0,0,2
+0,DEAD,0,Brick\cherubim_door\cf_door_iron_open_01.anim,4,1,3,0,0,0.1,1,0,0,0,0,0,0

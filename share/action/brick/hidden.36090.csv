@@ -1,0 +1,8 @@
+Creature,BRICK,,,,,,,,,,,,,,,
+Index,36090,,,,,,,,,,,,,,,
+Skeleton,Brick\hidden_brick.skel,,,,,,,,,,,,,,,
+
+Style,Action,Index,Animation,Start_Inter,End_Inter,TimeLength,Swing,Strike,Timing,Split,Timing2,Freeze,Effect,CancelTime,DefaultAction,Intersect
+0,OPENBRICK,0,,1,1,0,0,0,0,0,0,0,0,0,0,0
+0,CLOSEBRICK,0,Brick\hidden_brick\hidden_brick.anim,1,1,10,0,0,0,0,0,0,0,0,0,2
+0,DEAD,0,Brick\hidden_brick\hidden_brick_die.anim,1,1,1,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,6 @@
+Index,Name,MaxHP,Recovery,Strength,RequirePCLevel,RequireFishSkillLevel
+2,Bamboo Fishing Rod,169,2,4,20,1
+3,Seagull Fishing Rod,370,3,5,40,2
+4,Red Lava Fishing Rod,810,7,5,60,3
+5,Blue Bear Fishing Rod,1774,15,6,80,4
+6,Duron Fishing Rod,1774,15,6,0,4

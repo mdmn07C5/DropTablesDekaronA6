@@ -1,0 +1,8 @@
+Creature,BRICK,,,,,,,,,,,,,,,
+Index,36500,,,,,,,,,,,,,,,
+Skeleton,Brick\ws_castle-exit.skel,,,,,,,,,,,,,,,
+
+Style,Action,Index,Animation,Start_Inter,End_Inter,TimeLength,Swing,Strike,Timing,Split,Timing2,Freeze,Effect,CancelTime,DefaultAction,Intersect
+0,OPENBRICK,0,Brick\ws_castle-exit\ws_castle-exit-open.anim,1,1,2,0,0,0,0,0,0,0,0,0,0
+0,CLOSEBRICK,0,Brick\ws_castle-exit\ws_castle-exit-close.anim,1,1,2,0,0,0,0,0,0,0,0,0,2
+0,DEAD,0,,1,1,0,0,0,0,0,0,0,0,0,0,0

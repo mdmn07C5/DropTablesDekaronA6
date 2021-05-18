@@ -1,0 +1,16 @@
+RecordBefore,1020
+RecordTime,1320
+RecordBeforeEnd,1560
+RecordEndTime,1620
+ChooseTime,1630
+WaitTime,180
+BattleBefor3M,1680
+BattleBefor1M,1740
+BattleBefor30S,1770
+LimitStarDelay,180
+LimitStarTime,1800
+LimitPvPDelay,30
+LimitPvPTime,240
+LimitExtensionDelay,10
+LimitExtension,60
+LimitEndDelay,300

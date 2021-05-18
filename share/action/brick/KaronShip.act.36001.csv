@@ -1,0 +1,8 @@
+Creature,BRICK,,,,,,,,,,,,,,,
+Index,36001,,,,,,,,,,,,,,,
+Skeleton,Brick\sh_bigcandlestick_01.skel,,,,,,,,,,,,,,,
+
+Style,Action,Index,Animation,Start_Inter,End_Inter,TimeLength,Swing,Strike,Timing,Split,Timing2,Freeze,Effect,CancelTime,DefaultAction,Intersect
+0,OPENBRICK,0,Brick\ship_door\sh_bigcandlestick_01.anim,4,1,1,0,0,0.1,1,0,0,6,0,0,0
+0,CLOSEBRICK,0,Brick\ship_door\sh_bigcandlestick_01.anim,4,1,1,0,0,0,0,0,0,5,0,0,0
+0,DEAD,0,Brick\ship_door\sh_bigcandlestick_01.anim,4,1,1,0,0,0.1,1,0,0,6,0,0,0

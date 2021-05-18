@@ -1,0 +1,48 @@
+Quest_Index,LVFrom,LVTo,Subject,NPC Index,Price,Reward
+5111,1,170,Test of the Commissioner (B),150,1,Undecided
+5121,1,170,Test of the Commissioner (L),746,1,Undecided
+5011,1,170,Gross Langramas,746,1,Undecided
+5021,1,170,Stephan the Coward,150,1,Undecided
+5031,1,170,Revenge of the Hunter,746,1,Undecided
+5041,1,170,Invasion of Lizardmen,150,1,Undecided
+5051,1,170,Invasion of Insects 1,746,1,Undecided
+5061,1,170,Invasion of Insects 2,150,1,Undecided
+5071,1,170,Kunda's Blood,150,1,Undecided
+5081,1,170,Delkador's Request,746,1,Undecided
+5091,1,170,Revenge of the Young Days,150,1,Undecided
+5101,1,170,Grudge of Gypsies,746,1,Undecided
+5131,30,170,Bravery of Wolves,626,13000,Adventure Pts\  23 Distributed\1 random reward from \  11050 DIL\  17940 DIL\  54600 DIL\  187200 DIL\  distributed
+5141,130,170,Quilue's Treasure,3406,1200000,Adventure Pts\  7506 \Exp\  3002500 \1 random reward from \  1501250 DIL\  2402000 DIL\  6005000 DIL\  Link of Hallucination
+5151,130,170,Fragments of Hell,3406,630000,Adventure Pts\  3994 \Exp\  1597500 \1 random reward from\  798750 DIL\  1278000 DIL\  3195000 DIL\  Medial\ 
+7251,1,170,Danger of the Shrine (1),626,1,Undecided
+7261,38,170,Rock Pressures in Shrine,626,24000,Adventure Pts\  20 Distributed\1 random reward from \  20400 DIL\  33120 DIL\  100800 DIL\ 345600 DIL\  distributed
+7301,1,170,Mercenary Recruitment in Frozen Valley,626,1,Undecided
+7291,43,170,Antidotes of the Venomoths,626,1,Undecided
+7351,45,170,Kidnapper in the Cave,626,55000,Adventure Pts\  127 Distributed\1 random reward from \  46750 DIL\  63250 DIL\  132000 DIL\  550000 DIL\  distributed
+7271,1,170,Danger of the Shrine (3),626,1,Undecided
+7281,50,170,Carcer of the Shrine,626,37000,Adventure Pts\ 46 Distributed\1 random reward from \  31450 DIL\  42550 DIL\  +35 Pyramid\  +18 Medial\  distributed
+7361,1,170,Succubus in the Cave,626,1,Undecided
+7311,55,170,Tusk of Kolaigers,626,80000,Adventure Pts\  276 Distributed\1 random reward from \  68000 DIL\  92000 DIL\  192000 DIL\  800000 DIL\ distributed
+7321,58,170,Horn of Clays,626,90000,Adventure Pts\  356 Distributed\1 random reward from \  76500 DIL\  103500 DIL\  +48 Rhombus\  Copper Argate\  distributed
+7331,65,170,Reptile of the Desert,1312,120000,Adventure Pts\  75 Distributed\1 random reward from \  25500 Exp\  34500 Exp\  90000 Exp\  270000 Exp\  distributed
+7341,70,170,Killing the Gomeisas,1312,120000,Adventure Pts\  482 Distributed\1 random reward from \  102000 DIL\  138000 DIL\  288000 DIL\  1200000 DIL\  distributed
+9121,1,170,Mysterious Leaves,1312,1,Undecided
+9211,75,170,Ingredient of Potion,1312,160000,Adventure Pts\  266 Distributed\1 random reward from \  136000 DIL\  184000 DIL\  + 18 Medial\  Silver Argate\  distributed
+9301,1,170,Threatening Lakers,1312,1,Undecided
+9311,80,170,Shock of the Torture,1312,400000,Adventure Pts\  132 Distributed\1 random reward from \  85000 Exp\  115000 Exp\  300000 Exp\  900000 Exp\  distributed
+9101,1,170,Pieces of Wing,1312,1,Undecided
+9201,1,170,Revenge of Sailors,1312,1,Undecided
+9111,1,170,Ingredient for Food,1312,1,Undecided
+9161,1,170,Request from the Blacksmith,1312,1,Undecided
+9141,1,170,Ruthless Monster,1312,1,Undecided
+9131,1,170,Unsafe Nights,1312,1,Undecided
+9221,85,170,Angelica the Traitor,1312,480000,Adventure Pts\  199 Distributed\1 random reward from \  102000 Exp\  138000 Exp\  360000 Exp\  1080000 Exp\  distributed
+9231,1,170,Contaminated Soul,1312,1,Undecided
+9241,95,170,Fake Azure Knight,2009,600000,Adventure Pts\  219 Distributed\1 random reward from \  127500 Exp\  172500 Exp\  450000 Exp\  1350000 Exp\  distributed
+9021,90,170,Instructor of Segitas,1312,200000,Adventure Pts\  335 Distributed\1 random reward from \  170000 DlL\  230000 DlL\   +21 Medial\  + 25 Medial\  distributed
+9151,1,170,Pieces of arrow,1312,1,Undecided
+9321,105,170,Hunting Seetooth Fighters,2103,240000,Adventure Pts\  399 Distributed\1 random reward from \  204000 DIL\  276000DIL\  +1% All Def\  +1% Guard Bijou\  distributed
+9331,110,170,Getting Rid of the Threat,2103,270000,Adventure Pts\  450 Distributed\1 random reward from \  229500 DIL\  310500DIL\  +1% Blocking Bijou\  +1% Critical Bijou\  distributed
+9341,102,170,Revenge of the Tomb of Black Dragon,2009,230000,Adventure Pts\  391 Distributed\1 random reward from \  195500 DIL\  264500DIL\ + 44 Nymph Gold Ring\ +32 Mystic Gold Necklace\  distributed
+9351,115,170,Providing a Safe Route,1708,810000,Adventure Pts\  678 Distributed\1 random reward from \  142425 Exp\  203465 Exp\  406930 Exp\  1017325 Exp
+9999,1,170,Test,2103,1,Adventure Pts\  450 Distributed\1 random reward from \  229500 DIL\  310500DIL\  +1% Blocking Bijou\  +1% Critical Bijou\  distributed

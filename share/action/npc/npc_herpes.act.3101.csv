@@ -1,0 +1,13 @@
+Creature,NPC,,,,,,,,,,,
+Index,3101,,,,,,,,,,,
+Skeleton,NPC\Leonhardt.skel,,,,,,,,,,,
+
+Style,Action,Index,Animation,Start_Inter,End_Inter,TimeLength,Swing,Strike,Timing,Split,Timing2,Freeze
+0,STAND,0,NPC\Leonhardt.anim,1,1,4,0,0,0,0,0,0
+0,STAND,1,NPC\Leonhardt.anim,1,1,4,0,0,0,0,0,0
+0,REVIVE,0,NPC\Leonhardt.anim,1,1,4,0,0,0,0,0,0
+0,MOVE,0,,0,1,1,0,0,0,0,0,0
+0,MOVE,1,,0,1,1,0,0,0,0,0,0
+0,ATTACK,0,,0,1,0,0,0,0,0,1,0
+0,DEFEAT,0,,0,1,0,0,0,0,0,0,0
+0,DEAD,0,,0,1,0,0,0,0,0,0,0

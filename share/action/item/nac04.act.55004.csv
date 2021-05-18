@@ -1,0 +1,16 @@
+Creature,ITEM,,,,,,,,,,,,,,
+Index,55004,,,,,,,,,,,,,,
+Skeleton,Item\Weapon\Nac\NAC_EQU.skel,,,,,,,,,,,,,,
+
+Style,Action,Index,Animation,Start_Inter,End_Inter,TimeLength,Swing,Strike,Timing,Split,Timing2,Freeze,Effect,CancelTime,DefaultAction
+23,STAND,0,Item\Weapon\Nac\NAC_EQU_STAND_01.anim,4,1,2,0,0,0,0,0,0,0,0,1
+23,STAND,1,Item\Weapon\Nac\NAC_EQU_STAND_01.anim,4,1,2,0,0,0,0,0,0,0,0,0
+23,MOVE,0,Item\Weapon\Nac\NAC_EQU_WALK_01.anim,4,1,1,0,0,0,0,0,0,0,0,0
+23,MOVE,1,Item\Weapon\Nac\NAC_EQU_RUN_01.anim,4,1,1,0,0,0,0,0,0,0,0,0
+23,OPENFISHING,0,Item\Weapon\Nac\NAC_EQU_THROW_01.anim,4,1,1,0,0,0,0,0,0,0,0,0
+23,OPENFISHING,1,Item\Weapon\Nac\NAC_EQU_KEEP_01.anim,4,1,2,0,0,0,0,0,0,0,0,0
+23,CLOSEFISHING,0,Item\Weapon\Nac\NAC_EQU_SUCCESS_01.anim,4,1,4,0,0,0,0,0,0,0,0,0
+23,CLOSEFISHING,1,Item\Weapon\Nac\NAC_EQU_FAILPULL_01.anim,4,1,3,0,0,0,0,0,0,0,0,0
+23,CLOSEFISHING,2,Item\Weapon\Nac\NAC_EQU_FAILRELAX_01.anim,4,1,3,0,0,0,0,0,0,0,0,0
+23,FISHFIGHTING,0,Item\Weapon\Nac\NAC_EQU_PULL_01.anim,4,1,1,0,0,0,0,0,0,0,0,0
+23,FISHFIGHTING,1,Item\Weapon\Nac\NAC_EQU_RELAX_01.anim,4,1,1,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,8 @@
+Creature,BRICK,,,,,,,,,,,,,,,
+Index,36082,,,,,,,,,,,,,,,
+Skeleton,Brick\dp_bossexit_01_up.skel,,,,,,,,,,,,,,,
+
+Style,Action,Index,Animation,Start_Inter,End_Inter,TimeLength,Swing,Strike,Timing,Split,Timing2,Freeze,Effect,CancelTime,DefaultAction,Intersect
+0,OPENBRICK,0,Brick\bossexit\dp_bossexit_01_up.anim,1,1,2,0,0,0,0,0,0,0,0,0,0
+0,CLOSEBRICK,0,Brick\bossexit\dp_bossexit_01_down.anim,1,1,2,0,0,0,0,0,0,0,0,0,2
+0,DEAD,0,,1,1,0,0,0,0,0,0,0,0,0,0,0

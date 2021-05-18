@@ -1,0 +1,8 @@
+Creature,BRICK,,,,,,,,,,,,,,,
+Index,36011,,,,,,,,,,,,,,,
+Skeleton,Brick\sh_door_03.skel,,,,,,,,,,,,,,,
+
+Style,Action,Index,Animation,Start_Inter,End_Inter,TimeLength,Swing,Strike,Timing,Split,Timing2,Freeze,Effect,CancelTime,DefaultAction,Intersect
+0,OPENBRICK,0,Brick\ship_door\sh_door_03.anim,4,1,1,0,0,0.1,1,0,0,0,0,0,0
+0,CLOSEBRICK,0,Brick\ship_door\sh_door_03_stand.anim,4,1,1,0,0,0,0,0,0,0,0,0,0
+0,DEAD,0,Brick\ship_door\sh_door_03.anim,4,1,1,0,0,0.1,1,0,0,0,0,0,0
